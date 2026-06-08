@@ -1,4 +1,4 @@
-##The Knight of Gold
+## The Knight of Gold
 
 The Knight of Gold adalah game platformer 2D yang dikembangkan menggunakan Unity dan bahasa pemrograman C#. Dalam permainan ini, pemain berperan sebagai seorang ksatria pemberani yang menjelajahi dunia penuh tantangan untuk mengumpulkan emas dan mencapai tujuan di setiap level.
 
@@ -10,7 +10,6 @@ Game ini memanfaatkan sistem fisika 2D yang disediakan oleh Unity sehingga perge
 
 The Knight of Gold dikembangkan sebagai proyek game platformer yang menggabungkan elemen petualangan dan keterampilan. Melalui desain level yang menantang serta mekanisme permainan yang sederhana namun menarik, game ini bertujuan memberikan pengalaman bermain yang menyenangkan sekaligus melatih ketelitian dan koordinasi pemain dalam menyelesaikan setiap tantangan yang dihadapi.
 
-## Main Menu
 
 ## Main Menu
 
