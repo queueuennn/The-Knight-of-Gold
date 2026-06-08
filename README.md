@@ -6,18 +6,20 @@ Game ini memanfaatkan sistem fisika 2D yang disediakan oleh Unity sehingga perge
 The Knight of Gold dikembangkan sebagai proyek game platformer yang menggabungkan elemen petualangan dan keterampilan. Melalui desain level yang menantang serta mekanisme permainan yang sederhana namun menarik, game ini bertujuan memberikan pengalaman bermain yang menyenangkan sekaligus melatih ketelitian dan koordinasi pemain dalam menyelesaikan setiap tantangan yang dihadapi.
 ## Main Menu
 
-![Main Menu](images/Main%20Menu.jpeg)
+## Main Menu
+
+![Main Menu](Screenshots/Main%20Menu.jpeg)
 
 The main menu allows players to start the game and access available options.
 
 ## Level Preview
 
-![Level Preview](images/Level%20Preview.jpeg)
+![Level Preview](Screenshots/Level%20Preview.jpeg)
 
 This screen provides a preview of the level before gameplay begins.
 
 ## Level Complete
 
-![Complete](images/Complete.jpeg)
+![Complete](Screenshots/Complete.jpeg)
 
 This screen appears after the player successfully completes the level.
